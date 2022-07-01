@@ -7,3 +7,7 @@ class Conection{
 		$this->con=mysqli_connect('localhost','root','','primero');
  	}
  }
+
+
+ 
+ ?>

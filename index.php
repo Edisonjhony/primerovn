@@ -20,11 +20,12 @@
 
  .menu{
 
-  background: #9DA9A0 ; 
+  background:#9DA9A0 ;     
   text-decoration:white;
   color: black;
   font-style:  ;
-  box-shadow: 5px 6px 10px black;
+  box-shadow: 0px 0px 0px black;
+  display: center ;
 
 
  }
@@ -33,9 +34,10 @@
  .menu:hover{
 
   background: white;
-  color: black;
+  color: #F0F5FA;
   transition: 0.3s ;
   border: solid;
+
  }
 
   .th{
@@ -48,16 +50,19 @@
   }
 
 
+
 </style>
 
-<h1 style="background:#655555">Menu Principal</h1>
+<h1 style="background:#655555"> VIDA NUEVA</h1>
   <a class="menu" href=" lista_estudiantes.php">Estudiantes</a>
   <a class="menu" href="lista_usuarios.php">Usuarios</a>
   <img src="">
   
+  
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>REGISTRO</title>
+  <title>REGISTROS</title>
+  <h4></h4>
 </head>
 <body style="background:#FFFFFF >
    
@@ -66,3 +71,6 @@
 
 </body>
 </html>
+
+
+
